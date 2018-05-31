@@ -3,6 +3,7 @@
 # Description: Code snippet that makes HTTP/HTTPS url requests in a loop and
 # allows you to process the data received and change URL parameters before
 # the next url request.
+# Author: Michael Miranda, 2018/05/31
 
 import urllib.request
 url='http://www.spartix.com'
