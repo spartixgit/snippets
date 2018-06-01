@@ -13,7 +13,7 @@ for i in range(0,3):
 	data = res.read() # can also limit by bytes using res.read(10) to read first 10 bytes
 	# insert code to process the data received
 
-	# if a certain condition is met, you can also change the url for the next reqest	
+	# if a certain condition is met, you can also change the url for the next request	
 	#if i == 1:
 	#	url='https://www.google.com'	
 	print(data)
